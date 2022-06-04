@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GPVcode
-- 👀 I’m interested in coding
+- 👀 I’m interested in exploring the potentials of coding
 - 🌱 I’m currently learning the big 3
-- 💞️ I’m looking to collaborate on exciting projects
+- 💞️ I’m looking to understand the nuances of code
 - 📫 How to reach me Discord @gpv
 - 
 
