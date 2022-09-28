@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GPVcode
-- 👀 I’m interested in exploring the world through technology
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m @guidedgabe
+- 👀 My interest is in exploring the world through technology
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m passionate about building projects that serve others
 - 📫 How to reach me Discord @gpv
 - 
