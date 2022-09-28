@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guidedgabe
+- 👋 Hi, I’m Gabriel Villaruel
 - 👀 My interest is in exploring the world through technology
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m passionate about building projects that serve others
