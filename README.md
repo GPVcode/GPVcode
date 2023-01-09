@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gabriel Villaruel
 - 👀 My interest is in exploring the world through technology
-- 🌱 I’m currently learning full stack development with Thinkful
+- 🌱 Learned fullstack development with Thinkful
 - 💞️ I’m passionate about building projects that serve others
-- 📫 How to reach me Discord @gpv
+- 📫 How to reach me Slack @GPV
 
 <!---
 GPVcode/GPVcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
