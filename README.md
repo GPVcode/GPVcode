@@ -2,7 +2,7 @@
 - 👀 My interest is in exploring the world through technology
 - 🌱 Learned fullstack development with Thinkful
 - 💞️ I’m passionate about building projects that serve others
-- 📫 How to reach me Slack @GPV
+- 📫 How to reach me Slack @GPV or visit my site at www.GPVdev.com
 
 <!---
 GPVcode/GPVcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
