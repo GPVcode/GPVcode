@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gabriel Villaruel (GPVdev)
-- 👀 My interests are in education, technology, personal development, sports & fitness
-- 🌱 Learned fullstack development with Thinkful
-- 💞️ I’m passionate about building projects that serve others
+- 👋 Hi, I’m Gabriel Villaruel (GPVdev).
+- 👀 My interests are in education, technology, personal development, and fitness.
+- 🌱 Learned fullstack development with Thinkful.
+- 💞️ I’m passionate about algorithms and the various types of dat structures.
 - 📫 How to reach me: Slack @GPV or visit my site at www.GPVdev.com
 
 <!---
