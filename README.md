@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Gabriel Villaruel (GPVdev).
-- 👀 My interests are in education, personal development, and fitness.
-- 📫 How to reach me: Slack @GPV or visit my site at www.GPVdev.com
+👋 Hey, I'm Gabriel Villaruel, or GPVdev.
 
-## Summary
-Education is not about what you put into the student but what you can bring out of them. After discovering the superpower of ultra-effective learning, I intuitively pointed this ability toward coding and have been inspired since. The best part about building and problem-solving is cultivating a process and becoming fully immersed in it as you utilize it to solve the intended challenge. As a software engineer with a background in business, a passion for education and personal development, solving real customer problems with a business justification, and providing impactful solutions are highly appealing as I search for opportunities.
+🚀 I love building software that makes a difference. Always learning, always creating.
 
+🌟 Summary:
 
-<!---
-GPVcode/GPVcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For me, it's not just about writing code; it's about creating something meaningful. I thrive on engineering applications that leave a mark. With a background in business and a never-ending thirst for learning, I bring a dynamic perspective to software engineering. Let's team up and bring your ideas to life!
+
+🌐 Connect:
+
+Slack: @GPV
+Website: www.GPVdev.com
+Email: gvill005@gmail.com
