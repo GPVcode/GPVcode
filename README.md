@@ -3,7 +3,7 @@ Welcome to My GitHub Repository!
 Hello! I'm Gabe, a passionate Shopify Developer with 3 years in software development, including a year dedicated to enhancing e-commerce platforms on Shopify. I specialize in customizing existing Shopify themes to meet the unique goals of e-commerce business owners.
 
 ### What I Do:
-**Theme Customization:** Tailoring Shopify themes to fit specific brand and functional requirements.
+**Theme Customization:** Tailoring Shopify themes to fit specific brand and functional requirements.<br>
 **User Experience Design:** Creating intuitive and engaging user experiences.<br>
 **SEO Optimization:** Ensuring stores rank well on search engines.<br>
 **Mobile Responsiveness:** Developing designs that work seamlessly across all devices.<br>
