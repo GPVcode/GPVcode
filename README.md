@@ -9,7 +9,7 @@ Hello! I'm Gabe, a passionate Shopify Developer with 3 years in software develop
 **Mobile Responsiveness:** Developing designs that work seamlessly across all devices.<br>
 **Consulting:** Providing expert advice to optimize e-commerce strategies.<br>
 ### My Tech Stack:
-JavaScript, React, Liquid, HTML, CSS, & OpenAI<br>
+JavaScript, React, Shopify, Liquid, HTML, CSS, & OpenAI<br>
 NodeJS, ExpressJS<br>
 ### My Mission:
 Empowering business owners is what drives me. By offering expert Shopify support, I help turn e-commerce visions into successful digital realities. Every project is a unique journey, and I'm committed to ensuring the best outcomes for my clients.
