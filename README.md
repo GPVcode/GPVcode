@@ -1,4 +1,4 @@
-### Gabriel Villaruel - Professional Shopify Developer & E-commerce Consultant
+### Gabriel Villaruel - Professional Shopify Developer
 Welcome to My GitHub Repository!
 Hello! I'm Gabe, a passionate Shopify Developer with 3 years in software development, including a year dedicated to enhancing e-commerce platforms on Shopify. I specialize in customizing existing Shopify themes to meet the unique goals of e-commerce business owners.
 
